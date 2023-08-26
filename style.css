@@ -390,3 +390,11 @@ main{
     justify-content: center;
 }
 }
+.heart{
+    position: relative;
+}
+.favorite{
+    position: absolute;
+    right: 10px; 
+    top: 10px;
+}
